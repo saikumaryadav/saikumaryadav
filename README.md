@@ -4,7 +4,7 @@
 I'm a passionate **Software Engineer** with over 3+ years of experience in building scalable solutions using **Java, Spring Boot, React, Python, and AWS**. I thrive in designing microservices, optimizing system performance, and leading Agile teams to deliver impactful projects. Currently pursuing my Master's in Computer Science at Oklahoma State University.
 
 ## 🔧 Technical Skills
-- **Languages:** Java, Python, JavaScript, TypeScript  
+- **Languages:** Java, Golang, Python, JavaScript, TypeScript  
 - **Frameworks:** Spring Boot, React, Angular, Hibernate  
 - **Cloud & DevOps:** AWS (Lambda, EC2, S3, DynamoDB), Docker, Kubernetes, GitHub Actions  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
