@@ -16,7 +16,7 @@ I'm a passionate **Software Engineer** with over 5 years of experience in buildi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarpayyavula/) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sailumar.payyavula@okstate.edu)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=saikumaryadav.saikumaryadav)
+
 
 ![Profile views](https://count.getloli.com/get/@saikumaryadav?theme=moebooru)
 
