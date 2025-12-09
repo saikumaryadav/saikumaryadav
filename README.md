@@ -1,7 +1,7 @@
 # Hi there, I'm Saikumar Payyavula 👋
 
 ## 🚀 About Me
-I'm a passionate **Software Engineer** with over 5 years of experience in building scalable solutions using **Java, Spring Boot, React, Python, and AWS**. I thrive in designing microservices, optimizing system performance, and leading Agile teams to deliver impactful projects. Currently pursuing my Master's in Computer Science at Oklahoma State University.
+I'm a passionate **Software Engineer** with over 5 years of experience in building scalable solutions using **C#, Java, .NET, Spring Boot, React, Python, and AWS**. I thrive in designing microservices, optimizing system performance, and leading Agile teams to deliver impactful projects. Currently pursuing my Master's in Computer Science at Oklahoma State University.
 
 ## 🔧 Technical Skills
 - **Languages:** C#, Java, Golang, Python, JavaScript, TypeScript  
